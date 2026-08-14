@@ -1,0 +1,1 @@
+global.go_to_home = false;
