@@ -66,14 +66,14 @@ Developed as part of the **Young Creatives Challenge**.
 
 | Member | Role |
 |---|---|
-| **Jairus Ilacio** | Game Designer — original concept/idea, also contributed to coding |
-| **Jerome Gopela** | Programmer — core mechanics, gameplay systems, bug fixing |
-| **Shanna Salitorno** | Artist — visual art and UI design |
+| **Jairus Ilacio** | Game Designer — original concept/idea, also contributed to coding | [@Oicali](https://github.com/Oicali) |
+| **Jerome Gopela** | Programmer — core mechanics, gameplay systems, bug fixing | [@jrgpl22](https://github.com/jrgpl22) |
+| **Shanna Salitorno** | Artist — visual art and UI design | [@sheeshanna](https://github.com/sheeshanna) |
 
 ---
 
 ## 🏆 Achievement
-Young Creatives Challenge Season 3(2025-2026) - Semi-Finalists Top 14
+**Young Creatives Challenge Season 3(2025-2026) - Semi-Finalists Top 14**
 <img width="946" height="2047" alt="d15cb6f2-7c6c-4c78-b2a5-9435c03ef2eb" src="https://github.com/user-attachments/assets/a1929b14-c602-41ed-b664-24181c154e97" />
 
 
