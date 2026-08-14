@@ -41,7 +41,11 @@ Players take on the roles of a **Mouse** and a **Cat** in a fast-paced battle �
 
 ## 🕹️ How to Play
 
-▶️ [Play on itch.io](#) *(link coming soon)*
+**Download and play (Windows)**
+1. Go to the [Releases](../../releases) page
+2. Download the latest `.zip`
+3. Extract it and run the `.exe`
+
 
 ---
 
